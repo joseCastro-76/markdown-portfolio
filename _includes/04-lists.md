@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- A list of my favorite things.
+  - Walking my dog.
+  - Watching movies.
+  - Listening to music.
+  - Cooking.
+  - Listening to podcasts.
+  - Solving problems with code.
