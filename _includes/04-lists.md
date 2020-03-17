@@ -1,0 +1,7 @@
+- A list of my favorite things.
+  - Walking my dog.
+  - Watching movies.
+  - Listening to music.
+  - Cooking.
+  - Listening to podcasts.
+  - Solving problems with code.
